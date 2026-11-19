@@ -66,6 +66,12 @@ This is an open inquiry, not a conclusion. We welcome different viewpoints, rele
 
 See [the KBO topic brief](research-topics/kbo-stadium-experience.md).
 
+#### Sports Collectibles: From Random Packs to Athlete IP
+
+A second exploration examines how randomized pack openings, scarcity, collecting, PSA grading, athlete image and secondary-market exchange shape sports-card engagement. It also considers whether athlete aesthetics and lifestyle appeal can attract audiences beyond traditional sports fans.
+
+Read the [Sports Collectibles & Athlete IP research brief](research-topics/sports-collectibles-and-athlete-ip.md).
+
 ### What we may produce
 
 Depending on the question and the people involved, collaborative work may result in:
