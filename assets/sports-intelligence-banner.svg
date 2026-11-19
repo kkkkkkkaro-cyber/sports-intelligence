@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Sports Intelligence — Beyond the Game</title>
+<desc id="desc">An illustrated night-time stadium with a lit playing field, cheering crowd and sports motifs.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071b3b"/><stop offset=".55" stop-color="#164b79"/><stop offset="1" stop-color="#287d91"/></linearGradient>
+  <linearGradient id="field" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3c9b68"/><stop offset="1" stop-color="#15583e"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#fff7d6" stop-opacity=".95"/><stop offset="1" stop-color="#fff7d6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#sky)"/>
+<circle cx="950" cy="85" r="180" fill="url(#glow)" opacity=".22"/>
+<path d="M0 180 Q180 65 390 155 T800 145 T1200 130 V340 H0Z" fill="#102e50"/>
+<path d="M0 205 Q180 110 390 188 T800 180 T1200 165" fill="none" stroke="#8fc6dc" stroke-opacity=".4" stroke-width="5"/>
+<g fill="#f9e8ad">
+<path d="M70 78h210v12H70zM85 58h180v12H85zM870 54h250v12H870zM890 76h210v12H890z"/>
+<g opacity=".9"><circle cx="90" cy="98" r="5"/><circle cx="125" cy="98" r="5"/><circle cx="160" cy="98" r="5"/><circle cx="195" cy="98" r="5"/><circle cx="230" cy="98" r="5"/><circle cx="900" cy="104" r="5"/><circle cx="940" cy="104" r="5"/><circle cx="980" cy="104" r="5"/><circle cx="1020" cy="104" r="5"/><circle cx="1060" cy="104" r="5"/></g>
+</g>
+<path d="M0 242 Q300 198 600 242 T1200 232 V340 H0Z" fill="url(#field)"/>
+<path d="M440 340 L600 236 L760 340" fill="none" stroke="#d8f0d8" stroke-width="3" opacity=".65"/>
+<path d="M0 298 Q300 270 600 298 T1200 286" fill="none" stroke="#d8f0d8" stroke-width="2" opacity=".5"/>
+<g fill="#07172c">
+<path d="M0 245l22-24 17 24 18-34 18 34 19-25 17 25 20-37 20 37 20-24 20 24 20-34 20 34 20-25 20 25 20-38 20 38 20-23 20 23 20-31 20 31v95H0z"/>
+<path d="M650 245l18-27 17 27 20-37 20 37 20-25 20 25 20-34 20 34 20-23 20 23 20-37 20 37 20-25 20 25 20-34 20 34 20-24 20 24 20-36 20 36 20-25 20 25 20-34 20 34 20-20 20 20v95H650z"/>
+</g>
+<g fill="#f4f8ff" opacity=".92">
+<circle cx="112" cy="245" r="8"/><circle cx="190" cy="256" r="7"/><circle cx="270" cy="248" r="8"/><circle cx="730" cy="249" r="8"/><circle cx="820" cy="253" r="7"/><circle cx="940" cy="244" r="8"/><circle cx="1080" cy="253" r="8"/>
+</g>
+<g stroke="#f4f8ff" stroke-width="5" fill="none" stroke-linecap="round">
+<path d="M112 236l-14-26m14 26 18-27M270 240l-14-28m14 28 20-25M940 236l-15-29m15 29 18-29"/>
+</g>
+<g fill="#ffffff" font-family="Arial,Helvetica,sans-serif">
+<text x="54" y="150" font-size="46" font-weight="700" letter-spacing="1">SPORTS INTELLIGENCE</text>
+<text x="58" y="184" font-size="19" opacity=".9">Beyond the game. Exploring culture, business, technology and society.</text>
+</g>
+<g transform="translate(1060 135)" fill="none" stroke="#fff" stroke-width="5" opacity=".9">
+<circle r="38"/><path d="M-38 0h76M0-38v76M-27-27l54 54M27-27l-54 54"/>
+</g>
+</svg>
