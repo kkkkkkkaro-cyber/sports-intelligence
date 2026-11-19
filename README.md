@@ -1,5 +1,9 @@
 # Sports Intelligence
 
+<p align="center">
+  <img src="assets/sports-intelligence-banner.svg" alt="Sports Intelligence — exploring sports beyond the game" width="100%" />
+</p>
+
 **We don't just watch sports. We investigate what sports reveal about people, culture, business and society.**  
 **我们不只是观看体育，更希望通过体育理解人、文化、商业与社会。**
 
@@ -43,6 +47,10 @@ You can participate in conversations without using GitHub or writing code. GitHu
 ### Current research focus
 
 #### Beyond the Game: Why Do People Go to KBO Stadiums?
+
+<p align="center">
+  <img src="assets/kbo-stadium-experience.svg" alt="Illustration of a baseball stadium and the KBO spectator experience" width="100%" />
+</p>
 
 Our first proposed exploration looks at the spectator experience around Korean professional baseball (KBO).
 
