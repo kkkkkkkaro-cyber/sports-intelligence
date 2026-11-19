@@ -160,6 +160,12 @@ Sports Intelligence 是一个开放式、由社区共同推动的体育跨学科
 
 查看 [KBO 研究主题说明](research-topics/kbo-stadium-experience.md)。
 
+#### 体育收藏品：从随机卡包到运动员 IP
+
+第二个探索主题关注体育收藏品的用户参与机制与商业生态，包括随机拆包、稀缺性、收藏行为、PSA 第三方评级、运动员形象，以及二级市场交易。我们也将探讨运动员的审美形象与生活方式吸引力，是否可能触达传统体育迷之外的受众。
+
+查看 [体育收藏品与运动员 IP 研究主题说明](research-topics/sports-collectibles-and-athlete-ip.md)。
+
 ### 我们可能形成哪些成果？
 
 根据研究问题和参与者的兴趣，社区合作成果可以包括：
