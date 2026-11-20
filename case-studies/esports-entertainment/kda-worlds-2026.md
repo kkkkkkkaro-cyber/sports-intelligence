@@ -1,5 +1,17 @@
 # K/DA at Worlds 2026: Real Performers, Virtual Idols and Esports Spectacle
 
+<p align="center">
+  <a href="https://www.flickr.com/photos/lolesports/albums/72177720337048719">
+    <img src="https://img.youtube.com/vi/LQtV-iOwijY/maxresdefault.jpg" alt="Worlds 2026 official opening ceremony video thumbnail featuring K/DA and True Damage" width="100%" />
+  </a>
+</p>
+<sub>Official Worlds 2026 opening ceremony video thumbnail. <a href="https://www.youtube.com/watch?v=LQtV-iOwijY">Watch the full Riot Games broadcast</a> · <a href="https://www.flickr.com/photos/lolesports/albums/72177720337048719">View Riot Games' official 90-photo event gallery</a>.</sub>
+
+<p align="center">
+  <img src="https://img.youtube.com/vi/p9oDlvOV3qs/maxresdefault.jpg" alt="K/DA performing POP/STARS with augmented reality characters at the 2018 Worlds opening ceremony" width="100%" />
+</p>
+<sub>Historical visual reference: K/DA's original 2018 Worlds debut, showing the live-performer and virtual-character concept. This is not a 2026 event photo. <a href="https://www.youtube.com/watch?v=p9oDlvOV3qs">Watch the 2018 performance</a>.</sub>
+
 **Case type:** Sports & Entertainment · Sports & Technology · Digital Fandom  
 **Event:** 2026 League of Legends World Championship Final Opening Ceremony  
 **Date:** 14 November 2026  
