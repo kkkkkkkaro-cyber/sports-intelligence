@@ -1,5 +1,10 @@
 # Beyond the Game: Why Do People Go to KBO Stadiums?
 
+<p align="center">
+  <img src="https://image.koreajoongangdaily.com/12125501.webp?format=jpg&height=596&imageId=12125501&width=960" alt="Fans cheering during a KBO game at Jamsil Baseball Stadium" width="100%" />
+</p>
+<sub>Photo: Fans cheer during a KBO game at Jamsil Baseball Stadium, Seoul. Source: Korea JoongAng Daily, 18 April 2025. <a href="https://www.koreajoongangdaily.com/lifestyle/welcome-to-the-kbo-koreas-vibiest-tastiest-night-out-for-sports-fans/12125356">Original photo story</a>.</sub>
+
 **Status:** Open for discussion  
 **Topic area:** Sports & Culture · Sports & Entertainment · Sports & Tourism · Sports & Business
 
@@ -14,8 +19,6 @@ This topic begins with a question rather than an assumed answer:
 **What motivates people to attend KBO games, and how much of the appeal comes from the experience around the game itself?**
 
 ## Questions to explore
-
-These are starting prompts. Contributors are encouraged to challenge, refine or add to them.
 
 ### The live experience
 - What do spectators value most about attending in person?
@@ -44,37 +47,19 @@ These are starting prompts. Contributors are encouraged to challenge, refine or 
 
 ## Possible approaches
 
-The community could explore this topic through several complementary methods:
-
 - **Desk research:** academic literature, official league materials, industry reports and journalism.
 - **Comparative case studies:** stadium experiences across leagues and countries.
 - **Digital observation:** publicly available social media content and online fan discussions, respecting platform rules and privacy.
 - **Fan perspectives:** voluntary interviews, surveys or informal discussions, with appropriate consent and ethical care.
 - **Data exploration:** attendance, ticketing, venue, revenue or tourism data where reliable public sources are available.
 
-No single method is required. The approach should follow the question and the evidence available.
-
 ## Evidence and source notes
 
-When sharing a claim or statistic, please include:
-- The source and link
-- Publication or collection date
-- Geographic and time-period context
-- Any relevant definition (for example, attendance, ticket sales or unique visitors)
-- Known limitations
-
-Avoid treating promotional material or anecdotal posts as representative evidence of all fans.
+When sharing a claim or statistic, include the source and link, publication or collection date, geographic and time-period context, definitions and known limitations. Avoid treating promotional material or anecdotal posts as representative evidence of all fans.
 
 ## How to contribute
 
-You can participate by:
-1. Sharing an experience or observation about KBO or another league.
-2. Suggesting a research question.
-3. Adding an academic, industry or media source.
-4. Proposing a useful comparison.
-5. Helping organise evidence into a case study or research brief.
-
-You do not need to code or use GitHub to contribute to the discussion.
+Share an experience, suggest a research question, add a useful source, propose a comparison or help organise evidence into a case study. You do not need to code or use GitHub to contribute to the discussion.
 
 ## Open questions for the community
 
@@ -82,5 +67,9 @@ You do not need to code or use GitHub to contribute to the discussion.
 - Which audience groups should we understand better?
 - Which other leagues provide the most useful comparisons, and why?
 - What evidence would help us distinguish the appeal of the game from the appeal of the overall event?
+
+## Photo and reading source
+
+- Korea JoongAng Daily, [Welcome to the KBO: Korea’s vibiest, tastiest night out for sports fans](https://www.koreajoongangdaily.com/lifestyle/welcome-to-the-kbo-koreas-vibiest-tastiest-night-out-for-sports-fans/12125356), 18 April 2025. Photo credited in the article to NEWS1.
 
 **This is an exploratory topic. We welcome competing explanations and findings that complicate the starting assumptions.**
