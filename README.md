@@ -66,6 +66,8 @@ This is an open inquiry, not a conclusion. We welcome different viewpoints, rele
 
 See [the KBO topic brief](research-topics/kbo-stadium-experience.md).
 
+See [the K/DA at Worlds 2026 case study](case-studies/esports-entertainment/kda-worlds-2026.md) for an example of esports, virtual performers and live entertainment intersecting.
+
 #### Sports Collectibles: From Random Packs to Athlete IP
 
 A second exploration examines how randomized pack openings, scarcity, collecting, PSA grading, athlete image and secondary-market exchange shape sports-card engagement. It also considers whether athlete aesthetics and lifestyle appeal can attract audiences beyond traditional sports fans.
@@ -159,6 +161,8 @@ Sports Intelligence 是一个开放式、由社区共同推动的体育跨学科
 这些问题是开放的探索方向，而不是预设结论。我们欢迎不同观点、相关证据以及其他研究问题。
 
 查看 [KBO 研究主题说明](research-topics/kbo-stadium-experience.md)。
+
+另可阅读 [K/DA 亮相 2026 全球总决赛案例](case-studies/esports-entertainment/kda-worlds-2026.md)，了解电竞、虚拟艺人与现场娱乐如何交汇。
 
 #### 体育收藏品：从随机卡包到运动员 IP
 
